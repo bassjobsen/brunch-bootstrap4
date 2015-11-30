@@ -1,0 +1,20 @@
+{
+  "name": "your-app",
+  "version": "0.0.1",
+  "authors": [
+    "Your Name <your@mail>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "https://github.com/twbs/bootstrap.git#v4-dev",
+    "jquery": "~2.1.4",
+    "holderjs": "~2.6.0"
+  }
+}

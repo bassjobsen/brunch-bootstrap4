@@ -1,6 +1,6 @@
 ## Installation
 
-Clone this repo manually with git or use brunch new gh:bassjobsen/brunch-bootstrap4
+```brunch new -s https://github.com/bassjobsen/brunch-bootstrap4```
 
 ## Features
 
